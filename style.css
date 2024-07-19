@@ -1,0 +1,24 @@
+.head-1 {
+    color: red;
+    background-color: blue;
+    font-weight: bold;
+    font-size: larger;
+}
+.menu1,.menu2,.menu3 {
+    font-weight: bold;
+    font-style: italic;
+}
+.menu1 {
+    color: chocolate;
+}
+.menu2 {
+    color: burlywood;
+}
+.menu3 {
+    color: yellow
+}
+.para1 {
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: green;
+}
